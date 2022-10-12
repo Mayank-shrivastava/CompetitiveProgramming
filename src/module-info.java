@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mayan
+ *
+ */
+module CompetitiveProgrammingPractice {
+}

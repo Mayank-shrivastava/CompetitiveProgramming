@@ -8,9 +8,14 @@ public class CodeChef {
 		// TODO Auto-generated method stub
 		Scanner scn = new Scanner(System.in);
 		int t = scn.nextInt();
-		System.out.println(t);
-		System.out.println("Hello world");
-		System.out.println("123");
+		while(t-->0) {
+			int a = scn.nextInt(), b = scn.nextInt(), c = scn.nextInt();
+			if(a == (b+c) || b == (a+c) || c == (a+b)) {
+				System.out.println("Yes");
+			} else {
+				System.out.println("No");
+			}
+		} 
 		scn.close();
 	}
 }

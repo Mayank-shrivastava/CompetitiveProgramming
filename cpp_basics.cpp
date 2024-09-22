@@ -1,5 +1,5 @@
-#include <iostream> // header file of standard input output
-using namespace std;     // standard namespace
+#include <iostream>  // header file of standard input output
+using namespace std; // standard namespace
 
 void func1()
 {
@@ -86,5 +86,6 @@ int main()
     return 0;
 }
 
-// pointers in cpp : https://www.youtube.com/watch?v=zuegQmMdy8M
+// pointers in cpp : done
 // oops in cpp : https://www.youtube.com/watch?v=mlIUKyZIUUU
+// stl: https://www.youtube.com/watch?v=PZogbfU4X5E&t=1899s

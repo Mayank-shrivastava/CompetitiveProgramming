@@ -1,0 +1,1 @@
+{"name":"Local: inc_dec","url":"c:\\Users\\mayan\\OneDrive\\Desktop\\CompetitiveProgramming\\assignments\\inc_dec.cpp","tests":[{"id":1732038175348,"input":"5 \n1 \n2 \n3 \n4 \n5","output":"true"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mayan\\OneDrive\\Desktop\\CompetitiveProgramming\\assignments\\inc_dec.cpp","group":"local","local":true}
